@@ -16,7 +16,7 @@
     "@types/react-dom": "18.0.10",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
-    "next": "^14.2.3",
+    "next": "^15.1.0",
     "next-reveal": "^1.0.6",
     "phosphor-react": "^1.4.1",
     "react": "18.2.0",
