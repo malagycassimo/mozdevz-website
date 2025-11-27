@@ -209,8 +209,8 @@ const events = [
       { color: '#E9D5FF', title: 'Data' },
       { color: '#CBD5E1', title: 'AI' },
     ],
-    date: 'September 14, 2024',
-    location: 'To Be Announced',
+    date: 'November 29, 2025',
+    location: 'UEM Cultural Center',
     link: 'https://datawave.mozdevz.org/',
   },
   {
