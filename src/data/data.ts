@@ -32,6 +32,10 @@ import up_maputoLogo from '../../public/assets/schools/upmaputomode.png'
 // Cases Icons
 import { User, Student, Swap, Code } from 'phosphor-react'
 
+
+// others
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 const teamMembers = {
   valquiriapondja: valquiriapondjaImg,
   fenildechiluvane: fenildechiluvaneImg,
